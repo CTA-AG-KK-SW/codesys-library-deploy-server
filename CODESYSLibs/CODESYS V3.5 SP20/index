@@ -9,3 +9,5 @@ CtaAppHysterese
 CtaAppInfluxLog
 CtaAppKelvinminuten
 CtaAppLeistung
+CtaAppLeistungsventile
+CtaAppModBus
