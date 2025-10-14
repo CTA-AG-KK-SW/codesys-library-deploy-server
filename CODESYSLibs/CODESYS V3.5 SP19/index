@@ -25,3 +25,5 @@ CtaAppVerdichter
 CtaAppWagoModBus
 CtaSysBase
 CtaSysConfig
+CtaSysEvent
+CtaSysFU
