@@ -28,3 +28,4 @@ CtaSysBase
 CtaSysConfig
 CtaSysEvent
 CtaSysFU
+CtaSysInfluxLog
