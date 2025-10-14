@@ -32,3 +32,4 @@ CtaSysInfluxLog
 CtaSysIO
 CtaSysLeistungsventile
 CtaSysMotor
+CtaSysSensorReCalculation
