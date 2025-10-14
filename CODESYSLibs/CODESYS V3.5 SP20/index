@@ -11,3 +11,10 @@ CtaAppKelvinminuten
 CtaAppLeistung
 CtaAppLeistungsventile
 CtaAppModBus
+CtaAppModBusSpezifikation
+CtaAppPid
+CtaAppRefrigants
+CtaAppReport
+CtaAppSensor
+CtaAppSntp
+CtaAppSperrAntrieb

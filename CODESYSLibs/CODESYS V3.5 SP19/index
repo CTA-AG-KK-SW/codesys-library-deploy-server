@@ -10,3 +10,9 @@ CtaAppIO
 CtaAppKelvinminuten
 CtaAppLeistungsreduktion
 CtaAppModBus
+CtaAppModBusSpezifikation
+CtaAppPid
+CtaAppRefrigants
+CtaAppReport
+CtaAppSensor
+CtaAppSntp
