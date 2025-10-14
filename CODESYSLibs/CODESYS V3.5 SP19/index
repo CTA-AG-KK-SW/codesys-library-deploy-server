@@ -28,3 +28,5 @@ CtaSysConfig
 CtaSysEvent
 CtaSysFU
 CtaSysGrafanaLibPanel
+CtaSysInfluxLog
+CtaSysIO
