@@ -6,3 +6,6 @@ CtaAppEinsatzDiagramm
 CtaAppFilter
 CtaAppFU
 CtaAppHysterese
+CtaAppInfluxLog
+CtaAppKelvinminuten
+CtaAppLeistung
