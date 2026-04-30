@@ -8,8 +8,10 @@ CtaAppFilter
 CtaAppFU
 CtaAppHysterese
 CtaAppInfluxLog
+CtaAppIO
 CtaAppKelvinminuten
 CtaAppLeistung
+CtaAppLeistungsreduktion
 CtaAppLeistungsventile
 CtaAppModBus
 CtaAppModBusSpezifikation
